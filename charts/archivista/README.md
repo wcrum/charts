@@ -31,13 +31,9 @@ helm uninstall archivista
 
 ## Maintainers
 
-| Name       | Email | Url                           |
-| ---        | ---   | ---                           |
-| TestifySec |       | <https://www.testifysec.com/> |
 
 ## Source Code
 
-* Helm charts: <https://github.com/testifysec/charts>
 * Archivista: <https://github.com/in-toto/archivista>
 
 ## Values
